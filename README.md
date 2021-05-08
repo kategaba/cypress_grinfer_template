@@ -6,8 +6,6 @@ Download https://code.visualstudio.com/
 Install node.js
 Download https://nodejs.org/en/download/
 
-Terminal:
-
 npm init -y
 
 npm install cypress --save-dev
