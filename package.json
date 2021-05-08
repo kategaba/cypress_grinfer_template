@@ -1,0 +1,19 @@
+{
+  "name": "kate_yu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:run:chrome": "cypress run --browser chrome",
+    "cy:run:firefox": "cypress run --browser firefox"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chance": "^1.1.7",
+    "cypress": "^6.8.0",
+    "cypress-file-upload": "^5.0.6"
+  }
+}

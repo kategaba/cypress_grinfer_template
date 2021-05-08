@@ -1,0 +1,54 @@
+{
+    "topicId": "8e956847-ede1-48db-ad88-82c9acc3416a",
+    "subTopicIds": [
+      "8c155f9a-298a-4a3a-8cb1-36e2c6cbc2eb"
+    ],
+    "title": "Hairstyler",
+    "photos": [
+        {
+          "id": "346c27ae-6f72-4caf-8158-23770feb0fad",
+          "type": "AVATAR"
+      }
+    ],
+    "status": "PUBLISHED",
+    "languages": [
+      "ENG"
+    ],
+    "consultationsDisallowed": true,
+    "availability": {
+      "timezone": "Europe/Minsk",
+      "weeklyAvailability": [
+        {
+          "startTime": "09:00",
+          "endTime": "18:00",
+          "available": true
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "18:00",
+          "available": true
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "18:00",
+          "available": true
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "18:00",
+          "available": true
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "18:00",
+          "available": true
+        },
+        {
+          "available": false
+        },
+        {
+          "available": false
+        }
+      ]
+    }
+  }

@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://test.grinfer.com",
+  "integrationFolder": "cypress/all-tests",
+  "projectId": "dj84wr"
+}

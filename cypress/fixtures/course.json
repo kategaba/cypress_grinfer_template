@@ -1,0 +1,46 @@
+{
+    "coverFile": {
+      "id": "ab3e7abf-d5d8-4560-98c7-1dc065a14c65",
+      "type": "image/jpeg"
+    },
+      "mediaFile": {
+      "id": "d55f6a0d-5403-4514-b88f-bc5369cf085b",
+      "type": "video/mp4"
+    },
+    "description": "Description",
+    "lessons": [
+      {
+        "components": {
+          "blocks": [
+            {
+              "data": {},
+              "depth": 0,
+              "key": "text",
+              "text": "text",
+              "type": "unstyled"
+            }
+          ],
+          "entityMap": {}
+        },
+        "description": "Description",
+        "duration": 0,
+        "explanation": "string",
+        "files": [
+          {
+            "id": "string",
+            "meta": {},
+            "type": "string"
+          }
+        ],
+        "title": "Lesson title",
+        "type": "unstyled"
+      }
+    ],
+    "topicId": "5408f13c-8541-4bb7-aff9-9c284f7bd0aa",
+    "subTopicId": "56b883a1-5fb7-4e39-a5aa-6d568383efed",
+    "name": "How to create a business plan?",
+    "priceTierId": "5dea48850feb0d0001b645d5",
+    "rate": 0,
+    "stepByStep": true,
+    "uniqueContent": true
+  }
