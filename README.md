@@ -1,8 +1,7 @@
 Grinfer automation tests
 
 Install Visual studios code
-Download
-https://code.visualstudio.com/
+Download https://code.visualstudio.com/
 
 Install node.js
 Download https://nodejs.org/en/download/
